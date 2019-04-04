@@ -15,5 +15,4 @@ class Post
   def author_name
     @author.instance_variable_get(:@name)
   end
-  
 end
